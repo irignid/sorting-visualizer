@@ -2,7 +2,6 @@
 
 A JavaFX desktop app that shows sorting algorithms as a line of people. Every comparison, swap and move is animated step by step, with live counters and a highlighted pseudocode panel, so you can see *why* an algorithm does what it does.
 
-![Quick Sort (optimised) finishing on 10 people](docs/screenshot.png)
 
 ## Features
 
