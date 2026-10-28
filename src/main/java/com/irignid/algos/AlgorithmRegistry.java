@@ -11,7 +11,6 @@ public final class AlgorithmRegistry {
         new InsertionSortOptimised(),
         new SelectionSort(),
         new MergeSort(),
-        new MergeSortOptimised(),
         new QuickSort(),
         new QuickSortOptimised()
     );
